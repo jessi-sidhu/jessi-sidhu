@@ -1,11 +1,136 @@
-# 💫 About Me:
-I’m a Computer Science & Statistics student interested in software development and data analysis. I enjoy building full-stack applications, exploring how data can inform decisions, and learning new technologies through hands-on projects and hackathons.
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFA5D6"/>
+</p>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/5d/6f/2c/5d6f2ce38846c98cd7ebf46374a5ab52.gif" width="200"/>
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jessisidhu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jessisidhu04@gmail.com) 
+<p align="left">
+<strong>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=100&color=FFA5D6&width=750&lines=Hi,+I'm+Jessi+Sidhu!;+Fullstack+Developer+|+Data+Analyst"/>
+</strong>
+</p>
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FFD6EC,50:FFA5D6,100:CDB4FF" width="100%"/>
+</p>
+
+<!-- SOCIAL LINKS -->
+<p align="center">
+
+<a href="https://linkedin.com/in/jessisidhu">
+<img src="https://img.icons8.com/color/48/linkedin.png" width="40"/>
+</a>
+
+<a href="mailto:jessisidhu04@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail.png" width="40"/>
+</a>
+
+<a href="https://github.com/jessi-sidhu">
+<img src="https://img.icons8.com/material-outlined/48/github.png" width="40"/>
+</a>
+
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FFD6EC,50:FFA5D6,100:CDB4FF" width="100%"/>
+</p>
+
+<!-- ABOUT ME -->
+<h2>🌟 About Me</h2>
+
+I'm a **Computer Science & Statistics student at the University of British Columbia** with a strong interest in **full-stack software development and data analytics**.
+
+I enjoy building **scalable applications and thoughtful user experiences** while exploring how **data-driven systems and modern software engineering practices** can solve real-world problems.
+
+✨ **Interests**
+
+- Building **modern web applications** using React and TypeScript  
+- Exploring **data analysis, visualization, and applied machine learning**  
+- Designing **accessible and intuitive digital experiences**  
+- Mentoring students and supporting **technology education initiatives**
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FFD6EC,50:FFA5D6,100:CDB4FF" width="100%"/>
+</p>
+
+<!-- EXPERIENCE -->
+<h2>💼 Current Experience</h2>
+
+### STEM Facilitator — Steamoji
+
+- Guide students through hands-on engineering and coding projects introducing foundational concepts in **physical computing, digital design, and fabrication tools**
+- Mentor small groups of students in **problem solving, debugging, and iterative prototyping**
+- Foster collaborative learning environments that encourage **creativity, experimentation, and technical confidence**
+
+### Volunteer Workshop Facilitator — UBC GirlsSmart4Tech
+
+- Co-facilitate introductory **computer science and STEM workshops** for elementary and secondary school students
+- Lead interactive activities that teach **computational thinking and programming fundamentals**
+- Mentor participants on pathways into technology and collaborate with volunteers to improve workshop accessibility
+
+### Digital Content Creator — UBC Rotaract
+
+- Create digital content highlighting **community service initiatives and fundraising events**
+- Collaborate with club members to develop campaigns showcasing **member involvement and community impact**
+- Support outreach initiatives through **visual storytelling and promotional media**
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FFD6EC,50:FFA5D6,100:CDB4FF" width="100%"/>
+</p>
+
+<!-- PROJECTS -->
+<h2>🚀 Featured Projects</h2>
+
+### TA Pro  
+AI-powered virtual teaching assistant built during a hackathon.
+
+Tech: **React • TypeScript • Supabase • OpenAI API • Tailwind**
+
+- Designed the **student-facing interface for AI-powered Q&A**
+- Built responsive components using **React and Tailwind**
+- Integrated course material processing for contextual AI responses
+
+### PlantPal  
+Desktop application for managing plant-care schedules.
+
+Tech: **Java • Java Swing • JSON**
+
+- Built an interactive plant-care tracking system
+- Implemented persistent storage using JSON
+- Designed a graphical interface using Java Swing
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FFD6EC,50:FFA5D6,100:CDB4FF" width="100%"/>
+</p>
+
+<!-- TECH STACK -->
+<h2>🛠 Tech Stack</h2>
+
+**Programming Languages**  
+R | Java | JavaScript | TypeScript | Python | C++ | C | SQL | HTML | CSS
+
+**Frameworks & Tools**  
+React | Node.js | Tailwind CSS | Git | Figma | Vite | VS Code | Postman
+
+**Databases**  
+PostgreSQL | MongoDB
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FFD6EC,50:FFA5D6,100:CDB4FF" width="100%"/>
+</p>
+
+<!-- CONNECT -->
+<h2>📌 Let's Connect</h2>
+
+📩 **Email:** jessisidhu04@gmail.com  
+🐙 **GitHub:** github.com/jessi-sidhu  
+💼 **LinkedIn:** linkedin.com/in/jessisidhu
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFA5D6&height=90&section=footer"/>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
