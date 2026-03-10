@@ -19,7 +19,7 @@
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/jessi-sidhu/" target="_blank">
+  <a href="https://www.linkedin.com/in/jessisidhu/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/>
   </a>
   <a href="mailto:jessisidhu04@gmail.com">
