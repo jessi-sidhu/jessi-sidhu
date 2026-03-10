@@ -142,7 +142,7 @@ REST APIs | Responsive Design | JSON | Object-Oriented Programming | GitHub | UI
 <p>
 📩 <strong>Email:</strong> <a href="mailto:jessisidhu04@gmail.com">jessisidhu04@gmail.com</a><br/>
 🐙 <strong>GitHub:</strong> <a href="https://github.com/jessi-sidhu">github.com/jessi-sidhu</a><br/>
-💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jessisidhu/">linkedin.com/in/jessi-sidhu</a>
+💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/jessisidhu/">linkedin.com/in/jessisidhu</a>
 </p>
 
 <p align="center">
