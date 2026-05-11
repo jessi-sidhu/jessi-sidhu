@@ -122,7 +122,7 @@ I enjoy designing applications that combine clean user experiences with strong t
   <li>Implemented a <strong>reporting engine</strong> computing p95 latency, availability, and recovery time per fault scenario, surfacing measurable degradation thresholds across reproducible test runs</li>
 </ul>
 
-<a href="https://github.com/jessi-sidhu/ta-pro">
+<a href="https://devpost.com/software/1186564">
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=22&duration=1&pause=99999999&color=FFA5D6&width=300&height=35&lines=%E2%9C%BF+TA+Pro" alt="TA Pro"/>
 </a>
 <em>(Hackathon, Feb 2025)</em>
