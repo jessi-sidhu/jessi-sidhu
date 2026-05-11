@@ -42,7 +42,7 @@ I'm a <strong>Computer Science &amp; Statistics student at the University of Bri
 </p>
 
 <p>
-I enjoy designing applications that combine clean user experiences with strong technical foundations, and I’m especially interested in how software engineering, data-driven decision making, and modern development practices can be applied to solve real-world problems.
+I enjoy designing applications that combine clean user experiences with strong technical foundations, and I'm especially interested in how software engineering, data-driven decision making, and modern development practices can be applied to solve real-world problems.
 </p>
 
 <p>✨ <strong>Interests</strong></p>
@@ -64,7 +64,7 @@ I enjoy designing applications that combine clean user experiences with strong t
 <h3>Research Data &amp; Communications Assistant — UBC Faculty of Applied Science, Research and Partnerships</h3>
 <p><em>May 2026 – Aug 2026 · Vancouver, B.C.</em></p>
 <ul>
-  <li>Aggregate publication, citation, and grant data across <strong>SciVal, RISE, PAIR, and Workday</strong> to produce performance metrics for the Faculty’s annual research report distributed to senior leadership</li>
+  <li>Aggregate publication, citation, and grant data across <strong>SciVal, RISE, PAIR, and Workday</strong> to produce performance metrics for the Faculty's annual research report distributed to senior leadership</li>
   <li>Build <strong>reproducible reporting pipelines</strong> consolidating funding and output data across 8 academic units, replacing manual spreadsheet workflows used in prior cycles</li>
   <li>Design <strong>visualizations of funding and citation trends</strong> to communicate findings to non-technical stakeholders</li>
 </ul>
@@ -90,7 +90,20 @@ I enjoy designing applications that combine clean user experiences with strong t
 <!-- PROJECTS -->
 <h2>🚀 Featured Projects</h2>
 
-<h3>Plume</h3>
+<a href="https://github.com/jessi-sidhu/credit-risk-modeling">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=22&duration=1&pause=99999999&color=FFA5D6&width=600&height=35&lines=%E2%9C%BF+Credit+Risk+Modeling+Pipeline" alt="Credit Risk Modeling Pipeline"/>
+</a>
+<p><strong>Tech:</strong> Python • scikit-learn • LightGBM • SHAP • pandas • pytest</p>
+<ul>
+  <li>Trained a <strong>LightGBM loan default classifier</strong> on a 50k-row Lending Club dataset, hitting <strong>0.74 PR-AUC</strong> and <strong>0.92 ROC-AUC</strong>, beating logistic regression and random forest baselines</li>
+  <li>Tuned a <strong>cost-sensitive decision threshold</strong> that weighs missed defaults against good loans turned away, cutting expected losses by over <strong>30%</strong> compared to the default 0.5 cutoff</li>
+  <li>Used <strong>time-based splits</strong> to expose a 6–7 percentage point performance drop that random validation was hiding, which is closer to how the model would actually degrade in production</li>
+  <li>Added monitoring tooling with <strong>SHAP explanations</strong>, drift detection, probability calibration, and demographic parity checks across protected groups</li>
+</ul>
+
+<a href="https://github.com/jessi-sidhu/plume">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=22&duration=1&pause=99999999&color=FFA5D6&width=300&height=35&lines=%E2%9C%BF+Plume" alt="Plume"/>
+</a>
 <p><strong>Tech:</strong> Rust • Apache Arrow • Parquet • DuckDB • Rayon</p>
 <ul>
   <li>Built a <strong>Rust query engine</strong> over CSV and Parquet using Arrow RecordBatch pipelines; structured as a 5-crate workspace with <strong>168 tests, zero warnings</strong>, and a typed DataFrame builder API</li>
@@ -99,7 +112,9 @@ I enjoy designing applications that combine clean user experiences with strong t
   <li>Added opt-in <strong>Rayon parallel Parquet scan</strong> streaming row-group results via mpsc channels</li>
 </ul>
 
-<h3>FailureForge</h3>
+<a href="https://github.com/jessi-sidhu/failureforge">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=22&duration=1&pause=99999999&color=FFA5D6&width=400&height=35&lines=%E2%9C%BF+FailureForge" alt="FailureForge"/>
+</a>
 <p><strong>Tech:</strong> Python • Docker • SQLite • Typer • Pumba</p>
 <ul>
   <li>Built a <strong>chaos engineering CLI</strong> that injects network latency, packet loss, and container kills into Docker Compose stacks to surface resilience gaps in multi-service applications</li>
@@ -107,7 +122,10 @@ I enjoy designing applications that combine clean user experiences with strong t
   <li>Implemented a <strong>reporting engine</strong> computing p95 latency, availability, and recovery time per fault scenario, surfacing measurable degradation thresholds across reproducible test runs</li>
 </ul>
 
-<h3>TA Pro <em>(Hackathon, Feb 2025)</em></h3>
+<a href="https://github.com/jessi-sidhu/ta-pro">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&weight=700&size=22&duration=1&pause=99999999&color=FFA5D6&width=300&height=35&lines=%E2%9C%BF+TA+Pro" alt="TA Pro"/>
+</a>
+<em>(Hackathon, Feb 2025)</em>
 <p><strong>Tech:</strong> React • TypeScript • Supabase • Node.js • OpenAI API • Tailwind CSS</p>
 <ul>
   <li>Built an <strong>AI teaching assistant</strong> that ingests course materials and answers student questions in real time, shipped end-to-end in <strong>24 hours with a 3-person team</strong></li>
@@ -122,11 +140,15 @@ I enjoy designing applications that combine clean user experiences with strong t
 <h2>🛠 Tech Stack</h2>
 
 <p><strong>Programming Languages</strong><br/>
-Rust | Python | Java | C++ | TypeScript | JavaScript | R | SQL
+Python | R | SQL | Rust | Java | C++ | TypeScript | JavaScript
+</p>
+
+<p><strong>ML &amp; Data</strong><br/>
+scikit-learn | LightGBM | SHAP | pandas | NumPy | Apache Arrow | Parquet | DuckDB | Jupyter
 </p>
 
 <p><strong>Frameworks &amp; Tools</strong><br/>
-React | Node.js | Tailwind CSS | Pandas | Apache Arrow | Parquet | Rayon | Docker | Git | jUnit | Vite | Figma
+React | Node.js | Tailwind CSS | Rayon | Docker | Git | pytest | jUnit | Vite | Figma
 </p>
 
 <p><strong>Databases</strong><br/>
